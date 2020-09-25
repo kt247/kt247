@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**kt247/kt247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 <a href="https://www.linkedin.com/in/kt247/">
   <img align="left" alt="Khiem's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -20,6 +15,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-![Khiem's github stats](https://github-readme-stats.vercel.app/api?username=kt247)](https://github.com/kt247/github-readme-stats)
+![Khiem's github stats](https://github-readme-stats.vercel.app/api?username=kt247&theme=react)]
