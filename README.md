@@ -7,6 +7,9 @@
 <a href="https://www.linkedin.com/in/kt247/">
   <img align="left" alt="Khiem Tran's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="skype:-live:gia_khiem-?chat">
+  <img align="left" alt="Khiem Tran's Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
+</a>
 <a href="https://t.me/kt247">
   <img align="left" alt="Khiem Tran's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
