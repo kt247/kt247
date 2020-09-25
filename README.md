@@ -19,9 +19,10 @@
 
 <br />
 
-Hi, I'm Khiem 🙍, a graduated student 🚀 from Vietnam. I truly express a wish to make some impressive applications and have an opportunity to change for the better 👨, thus I am not only eager to embrace challenges but also ready to upgrade my technical skills 💼.
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
+
+
+Hi, I'm Khiem 🙍, a graduated student 🚀 from Vietnam. I truly express a wish to make some impressive applications and have an opportunity to change for the better 👨, thus I am not only eager to embrace challenges but also ready to upgrade my technical skills 💼.
   
 **Contacts:**
 
@@ -40,9 +41,11 @@ Hi, I'm Khiem 🙍, a graduated student 🚀 from Vietnam. I truly express a wis
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <details>
+  
 <summary>📈 My GitHub Stats</summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kt247&theme=react" alt="khiemtran" />
+
 </details>
 
 
