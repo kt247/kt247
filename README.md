@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/rosinfujiwara">
   <img align="left" alt="Khiem Tran's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -21,7 +21,7 @@
 
 Hi, I'm Khiem 🙍, a graduated student 🚀 from Vietnam. I truly express a wish to make some impressive applications and have an opportunity to change for the better 👨, thus I am not only eager to embrace challenges but also ready to upgrade my technical skills 💼.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
   
 **Contacts:**
 
