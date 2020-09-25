@@ -25,7 +25,8 @@ Hi, I'm Khiem 🙍, a graduated student 🚀 from Vietnam. I truly express a wis
   
 **Contacts:**
 
-- 📫 How to reach me: <a href="skype:-live:gia_khiem-?chat">Skype</a>
+- 📫 How to reach me:
+<a href="skype:-live:gia_khiem-?chat">Skype</a>
 
 **Languages and Tools:**
 
@@ -41,7 +42,7 @@ Hi, I'm Khiem 🙍, a graduated student 🚀 from Vietnam. I truly express a wis
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kt247&theme=react" alt="khiemtran" />
+<img src="https://github-readme-stats.vercel.app/api?username=kt247&theme=react" alt="khiemtran" />
 </details>
 
 
