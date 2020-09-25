@@ -8,7 +8,7 @@
 <a href="https://t.me/kt247">
   <img align="left" alt="Khiem Tran's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/khiemtran774/">
+<a href="https://www.instagram.com/khiemtran744/">
   <img align="left" alt="Khiem Tran's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.codewars.com/users/khiemtran/">
@@ -24,7 +24,8 @@ Hi, I'm Khiem 🙍, a graduated student 🚀 from Vietnam. I truly express a wis
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Contacts:**
-📫 How to reach me: [@khiem.tran](skype:-live:gia_khiem-?chat);
+
+- 📫 How to reach me: <a href="skype:-live:gia_khiem-?chat">Skype</a>
 
 **Languages and Tools:**
 
@@ -36,9 +37,6 @@ Hi, I'm Khiem 🙍, a graduated student 🚀 from Vietnam. I truly express a wis
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-```
-
 
 <details>
 <summary>📈 My GitHub Stats</summary>
